@@ -1,0 +1,24 @@
+#orange{
+    color: #27AE60;
+}
+
+h1{
+    font-size: 50px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.hire-btn{
+    text-decoration: none;
+    background-image: linear-gradient(#27AE60, #FFC300);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.section{
+    display: flex;
+}
